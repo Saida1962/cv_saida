@@ -1,0 +1,37 @@
+ul{
+	text-align: left;
+	margin-left: 300px;
+
+}
+
+
+li{
+	padding-bottom: 20px;
+}
+
+.adress{
+	margin-left: 900px;
+	
+}
+
+p{
+	text-align: left;
+	margin-left: 411px;
+	font-weight: normal;
+}
+
+
+table{
+
+	margin-left: 300px;
+	font-size: 25px;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+td
+{
+	padding-left: 20px;
+}
+
